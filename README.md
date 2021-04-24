@@ -1,10 +1,13 @@
-# Third-Person 3D Game:
+# Third-Person 3D Game
+
 Created a third-person 3D game prototype.
 
-# Technologies Used:
+## Technologies Used
+
 C#, Unity3D and Unity Editor.
 
-# Demonstration:
+## Demonstration
+
 Click on this link to see this game in action: [https://vimeo.com/452442102](https://vimeo.com/452442102)
 
 
